@@ -1,0 +1,12 @@
+{
+    "username": "your account",
+    "password":"your password",
+    "start_page":1,
+    "end_page":5,
+    "target_url":"http://quotes.toscrape.com/page/{page}",
+    "login_url":"http://quotes.toscrape.com/login",
+    "target_url_2": "https://www.imdb.com/chart/top/",
+    "target_url_3":"https://unsplash.com/s/photos/blue-sky",
+    "user_data_dir":"C:\\Users\\UserName\\AppData\\Local\\Google\\Chrome\\Default"
+
+}
